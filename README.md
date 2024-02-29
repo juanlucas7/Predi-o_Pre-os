@@ -12,3 +12,7 @@ Depois da análise dos tipos dos dados, foi necessário modelar os dados verific
 Depois disso, foi plotado um gráfico de todas as variáveis interagindo entre si (pairplot) com o intuito de identificar padrões de comportamentos lineares entre elas:
 
 ![transferir](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/b7971098-0a00-4ba9-8152-3532bff82064)
+
+Depois de uma breve verificação, foi serparado um conjunto de gráficos que representavam em sua maioria o comportamento esperado:
+
+![transferir (1)](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/0f1cf8d1-1f99-4d8c-8a6c-29d5b5ee9d05)
