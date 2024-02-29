@@ -31,6 +31,12 @@ Depois do modelo treinado, testado e verificado sua eficácia, foi construído u
 
 ![image](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/260efc8a-3a22-4b5c-9da1-bfc8abd3e7fb)
 
+## 💡🧠 Conclusão
+
+Depois de toda a modelagem e organização dos dados, todo o processo levou à criação de um modelo que teve uma boa acertividade em uma grande faixa de valores e chegou muito próximo de prever os valores exatos dos imóveis. Sendo assim, ele se mostrou eficaz ao ponto de poder ser utilizado para este fim.
+
+
+
 
 
 
