@@ -16,3 +16,13 @@ Depois disso, foi plotado um gráfico de todas as variáveis interagindo entre s
 Depois de uma breve verificação, foi serparado um conjunto de gráficos que representavam em sua maioria o comportamento esperado:
 
 ![transferir (1)](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/0f1cf8d1-1f99-4d8c-8a6c-29d5b5ee9d05)
+
+Com isso, foi plotado o gráfico de calor das correlações entre as variáveis:
+
+![image](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/1052b136-0c25-4c34-bb5e-5d6ba33380f6)
+
+E o histograma dos Preços dos Imóveis:
+
+![image](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/e03d361b-34f9-4677-8c82-0fea1b2fc785)
+
+
