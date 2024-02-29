@@ -25,4 +25,15 @@ E o histograma dos Preços dos Imóveis:
 
 ![image](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/e03d361b-34f9-4677-8c82-0fea1b2fc785)
 
+## 💪🏾 Treinamento do Modelo e Predição dos Preços
+
+Depois do modelo treinado, testado e verificado sua eficácia, foi construído um gráfico de linhas com o intuito de comparar os valores reais com os preditos pelo modelo:
+
+![image](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/260efc8a-3a22-4b5c-9da1-bfc8abd3e7fb)
+
+
+
+
+
+
 
