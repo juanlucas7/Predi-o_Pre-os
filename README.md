@@ -2,6 +2,9 @@
 
 ## 👨🏾‍🏫 Sobre o projeto
 
-O problema em questão é trabalhar com regressão para apresentar e prever um valor contínuo com base nos inputs informados para o modelo. Neste projeto, buscou-se a partir de características de casas como área, numéro de cômodos, etc, criar um modelo que buscasse prever o valor dos imóveis.
+Neste projeto, buscou-se a partir de características das casas como área, número de cômodos, etc, criar um modelo que buscasse prever o valor dos imóveis.
+
+Depois da análise dos tipos dos dados, foi necessário modelar os dados verificar a presença de outliers, para isso foi plotado um gráfico de boxplot:
 
 
+![newplot](https://github.com/juanlucas7/Predicao_Precos/assets/149596266/fcd9c1ae-b612-4d40-8e12-aa351fc67130)
